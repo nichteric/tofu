@@ -2,7 +2,7 @@
 
 A very simplistic tool to get a neat scrambling effects on text elements of a page.
 
-See an example on (my website)[https://curious.care].
+See an example on [my website](https://curious.care).
 
 ## Usage
 
