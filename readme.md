@@ -1,6 +1,9 @@
 # Tofu
 
-A very simplistic tool to get a neat scrambling effects on text elements of a page.
+A very simplistic tool to get a neat scrambling effects on text elements of a page. To
+be used with a monospace font so that all lines have the same length.
+
+Texts get descrambled and scrambled as they come in and out of the viewport.
 
 See an example on [my website](https://curious.care).
 
